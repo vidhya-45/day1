@@ -1,0 +1,21 @@
+6/2/2023
+
+We saw about introduction to git, why git and benifits of git
+what is working directory, Staging Directory and Repository
+
+Git commands:
+------------
+
+mkdir day1
+cd day1
+git config --global user.name "ur name"
+git config --global user.email "ur email"
+git config --global user.password "ur password"
+git config --global http.sslverify "false"
+git clone "url"
+git checkout -b "day1_test"
+git add "filename"
+git status
+git commit
+git push 
+
